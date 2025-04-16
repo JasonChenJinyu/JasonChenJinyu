@@ -1,4 +1,6 @@
-# Hi! I'm Jason Chen from Beijing, China. Currently studying at Beijing National Day School Internaltion Department in G11.
+# Hi! I'm Jason Chen from Beijing, China. 
+
+I am Currently studying at Beijing National Day School Internaltion Department in G11.
 
 I am a Mechanical Engineerer, Robotics Designer, Embedded Programmer, and Product Designer. 
 
