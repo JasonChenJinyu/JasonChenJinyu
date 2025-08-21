@@ -4,7 +4,8 @@ I am Currently studying at Beijing National Day School International Department 
 
 I am a Mechanical Engineer, Robotics Designer, Embedded Programmer, and Product Designer. 
 
-Currently, I am promoting and organizing PivotHack Hackathon. If you are interested and would like to be part of it, be sure to let me know!
+I am the **Founder and Organizer** of **PivotHack**, a Nation-wide Hackathon based in Beijing for high school students.
+I am also the **President** of **BNDS Cycling Club**, a 200+ members cross-school cycling club.
 
 #### Feel free to reach out through jasonchenjinyu@outlook.com to share any of your insights or questions.
 
